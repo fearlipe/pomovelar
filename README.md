@@ -54,11 +54,6 @@ open pomovelar.xcodeproj
 4. Take a break when prompted
 5. View your session history in the left panel
 
-### Keyboard Shortcuts
-- `⌘ + S`: Start/Pause timer
-- `⌘ + R`: Reset timer
-- `⌘ + Q`: Quit app
-
 ## Development
 
 ### Project Structure
