@@ -19,7 +19,7 @@ A sleek and efficient Pomodoro Timer built with SwiftUI for macOS. Stay producti
 ## Installation
 
 ### Download
-Download the latest version from the [Releases](https://github.com/yourusername/pomodoro-timer/releases) page.
+Download the latest version from the [Releases](https://github.com/fearlipe/pomovelar/releases) page.
 
 ### Manual Installation
 1. Extract and drag `Pomodoro Timer.app` to your Applications folder
