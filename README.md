@@ -34,13 +34,13 @@ Prerequisites:
 Steps:
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/pomodoro-timer.git
+git clone https://github.com/fearlipe/pomovelar.git
 
 # Navigate to project directory
-cd pomodoro-timer
+cd pomovelar
 
 # Open in Xcode
-open PomodoroTimer.xcodeproj
+open pomovelar.xcodeproj
 
 # Build the project
 # In Xcode: Product > Build
