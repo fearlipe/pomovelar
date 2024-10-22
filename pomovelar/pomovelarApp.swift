@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct pomovelarApp: App {
+struct DilettaPomoApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
